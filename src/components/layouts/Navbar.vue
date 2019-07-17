@@ -1,0 +1,72 @@
+<template>
+    <div class="main__wrapper">
+       <div class="top__nav container-fluid d-none d-lg-block">
+           <div class="container">
+               <div class="row">
+                   <div class="col-md-10">
+                       <div class="row">
+                           <div class="col-md-5">
+                              <p> <i class="fa fa-map-marker"></i>&nbsp; 50B Ughelli Road, Ozoro, Delta State, Nigeria</p>
+                           </div>
+                            <div class="col-md-4">
+                                <p><i class="fa fa-envelope"></i>&nbsp; jubileerentalsoz@gmail.com</p>
+                           </div>
+                            <div class="col-md-3">
+                                <p><i class="fa fa-phone"></i>&nbsp; +2348 103 199 173</p>
+                           </div>
+                       </div>
+                   </div>
+                    <div class="col-md-2">
+                      <p> <a href="" class="top__nav--icons"><i class="fab fa-instagram"></i></a></p>
+                   </div>
+               </div>
+           </div>
+       </div>
+       <!--End of top nav
+       ==================-->
+       <!--Navbar section
+       ==================-->
+      <div class="container-fluid">
+          <div class="container">
+             <nav class="navbar navbar-expand-lg">
+                 <router-link to="/" class="navbar-brand"><i class="fas fa-glass-cheers brand-img"></i></router-link>
+                 <button class="navbar-toggler" data-toggle="collapse" data-target="#navbarResponsive">
+                     <i class="fa fa-bars navbar-toggler"></i>
+                 </button>
+                 <div class="collapse navbar-collapse" id="navbarResponsive">
+                     <ul class="navbar-nav ml-auto">
+                         <li class="nav-item">
+                             <router-link to="/" class="nav-link">Home</router-link>
+                         </li>
+                          <li class="nav-item">
+                             <router-link to="/" class="nav-link">About Us</router-link>
+                         </li>
+                          <li class="nav-item">
+                             <router-link to="/" class="nav-link">Services</router-link>
+                         </li>
+                          <li class="nav-item">
+                             <router-link to="/" class="nav-link">Gallery</router-link>
+                         </li>
+                          <li class="nav-item">
+                             <router-link to="/" class="nav-link contact-link">Contact Us</router-link>
+                         </li>
+                     </ul>
+                 </div>
+             </nav>
+          </div>
+      </div>
+    </div>
+</template>
+<script>
+export default {
+    name: 'Navbar',
+    data(){
+        return{
+
+        }
+    }
+}
+</script>
+<style>
+
+</style>

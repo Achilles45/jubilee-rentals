@@ -1,0 +1,90 @@
+.products{
+    background: #FFF;
+    padding: 1.5rem;
+    margin-top: 2.5rem;
+    h2{
+        color: #242424;
+        font-weight: 400;
+    }
+    p{
+        font-size: 0.9375rem;
+        font-weight: 300;
+        color: #656565;
+        line-height: 1.6;
+    }
+    ul li
+    {
+        display: inline !important;
+    } a{
+        text-transform: uppercase;
+        margin-top: 1rem;
+        color: #656565;
+        padding:0 1rem;
+        font-size: .9rem;
+    }
+    .product-cards{
+        &:hover{
+            transform: scale(0.7);
+            transition: all ease-in-out .8s;
+            cursor: pointer;
+        }
+    }
+    h6{
+        font-weight: 400;
+        color: #656565;
+        line-height: 1.2;
+        font-size: .89rem;
+    }
+}
+.cups{
+    padding-top: 1.2rem;
+    padding-bottom: .8rem;
+    width: 190px;
+}
+.pans{
+    padding-top:3rem;
+    padding-bottom: 1rem;
+    width: 200px;
+}
+.pots{
+    padding-top: 2rem;
+    width: 200px;
+    padding-bottom: .8rem;
+}
+.plates{
+    width: 220px;
+    padding-bottom: 1rem;
+    padding-top: 1rem;
+}
+.cafing{
+    width: 170px;
+    padding-bottom: 1.25rem;
+}
+.donut{
+    width: 210px;
+}
+.ice-cream{
+    width: 190px;
+    padding-bottom: 1rem;
+}
+.chair1{
+    width: 180px
+}
+.loading{
+    width: 100px;
+    margin: 0 auto;
+}
+.control{
+    width: 220px;
+}
+.tent2, .tent3{
+    width: 195px;
+    padding-bottom: 1.4rem
+}
+
+//Media Queries
+@media only screen and (min-width: 468px){
+    ul li{
+        display: block !important;
+    }
+}

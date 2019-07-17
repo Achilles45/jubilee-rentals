@@ -1,0 +1,36 @@
+.newsletter{
+    background: #f4f4f4;
+    padding:2rem 0;
+    h2{
+        font-weight: bold;
+    }
+    p{
+        font-size: 0.9275rem;
+        font-weight: 300;
+        color: #656565;
+        line-height: 1.6;
+        padding-top:.5rem;
+    }
+    form{
+        margin-top: 2.6rem;
+        input[type=text]{
+            width: 100% !important;
+            height: 2.6rem;
+            border-radius: 0 !important;
+            &::placeholder{
+                font-size: .85rem;
+            }
+            &:focus{
+                box-shadow: none!important;
+                border: 1px solid #ccc;
+            }
+        }
+        .newsletter-btn{
+            background: #000;
+            color: #fff;
+            padding: .6rem 2rem;
+            border: none;
+            font-size: .9rem;
+        }
+    }
+}
