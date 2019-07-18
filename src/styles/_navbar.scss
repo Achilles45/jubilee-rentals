@@ -2,8 +2,9 @@
     background: $primary-color;
     color:#fff;
     font-size: .8rem;
+    height: 2.5rem;
     p{
-        padding-top:13px;
+        padding-top:10px;
     }
 }
 nav{
@@ -12,9 +13,8 @@ nav{
         font-size: 1rem;
         font-family: 'Lato';
     }
-    .brand-img{
-        font-size: 2rem;
-        color:#0263CE;
+    .brand-logo{
+        height: 4rem;
     }
     .nav-link{
         color: $primary-color;

@@ -4,7 +4,7 @@
             <div class="row">
                 <div class="col-md-4">
                     <h5>Company</h5>
-                    <p>Jubilee Rentals and Decorations is a creative rental and event planning agency based in Delta State that provides you with everything you need to make your event colorful and so much more ...</p>
+                    <p>Jubilee Rentals and Decorations is a creative rental and event planning company based in Delta State that provides you with everything you need to make your event colorful and so much more ...</p>
                     <h6>Get Social</h6>
                    <a href=""><i class="fab fa-facebook footer-links"></i></a>
                    <a href=""><i class="fab fa-instagram footer-links"></i></a>

@@ -1,0 +1,91 @@
+.contact{
+    width: 100% !important;
+    background: #fff;
+    .google-map{
+        width: 100% !important;
+        height: 400px;
+        background: #fff;
+        position: absolute;
+        top: 20%;
+        left: 0;
+        z-index: -1;
+    }
+        .contact__details{
+        position: absolute;
+        width: 100%;
+        top:90%;
+        margin: 0 auto;
+        padding-bottom: 30px;
+        p{
+            font-size: .9rem;
+        }
+        }
+    a{
+        margin-right: 20px;
+        font-size: 2rem;
+    }
+    .fa-facebook{
+        color: #3B589C;
+    }
+    .fa-instagram{
+        color: #E83461;
+    }
+    p{
+        font-size: .88rem;
+    }
+    .contact__form{
+        label{
+            font-size: .9rem;
+        }
+        input[type=text], input[type=email]{
+            border: 1px solid #c2c2c2;
+            border-radius: 0;
+            background: transparent !important;
+            padding: .3rem;
+            &:focus{
+                box-shadow: none;
+                background: transparent !important;
+            }
+        }
+        textarea{
+            width: 100% !important;
+            height: 10rem;
+            border: 1px solid #c2c2c2;
+            border-radius: 0;
+            &:focus{
+                box-shadow: none;
+                background: transparent !important;
+            }
+        }
+        .contact-btn{
+            background: #000;
+            padding: .7rem 2rem;
+            color:#fff;
+            border: none;
+            text-align:center;
+            font-size: .9rem;
+            outline: none;
+            &:hover{
+                background: $primary-color;
+                transition: all ease-in-out .5s;
+            }
+        }
+    }
+}
+
+//Media Queries
+@media only screen and (max-width: 600px) {
+    .contact{
+       .google-map{
+           top:13% !important;
+       } 
+    }
+    .contact__details{
+        top: 70% !important;
+    }
+}
+@media only screen and (max-width: 768px){
+    .contact__details{
+        top: 85% !important;
+    }
+}

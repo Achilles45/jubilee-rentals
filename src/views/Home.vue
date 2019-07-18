@@ -30,7 +30,7 @@
       <div class="row text-center">
         <div class="col-12">
           <h2>We know some moments happens once in life. Let's help you achieve that event or party of your dreams</h2>
-          <p>When we say that we are your partner of choice in making you have the event or parties of your dreams, we actually mean it. Beyound just helping you to plan your weddings, birthday parties, special ceremonies, or corporate events, we provide you with a broad range of rental services from classy tables, chairs, party tents, dinnerwares, to catering equipments and any other material needed to make your event a success all on budget. We stive to always provide you with the highest level of customer support. We are your one-stop shop for all your events. Try us today!</p>
+          <p>When we say that we are your partner of choice in making you have the event or parties of your dreams, we actually mean it. Beyound just helping you to plan your weddings, dinner parties, graduation, family reunion, birthday parties, special ceremonies, or corporate events, we provide you with a broad range of rental services from classy tables, chairs, party tents, dinnerwares, decoration essentials, mist fan, Uhaul van, to catering equipments and any other material needed to make your event a success all on budget. We strive to always provide you with the highest level of customer support. We are your one-stop shop for all your events. Try us today!</p>
         </div>
       </div>
     </div>
@@ -79,14 +79,14 @@
       <div class="row">
         <div class="col-md-6">
           <h1 class="text-center">We create CUSTOMIZED and UNIQUE Event and Party Experience</h1>
-          <p>We pride ourselves as your partner of choice to help you achieve that event or party of your dreams, be it marriage, bithday parties or even corporate events. We don't just provide you with quality rental services, wwe make sure you have a beautify holistic experience working with us.</p>
-          <p>We put into consideration all peices from the venue, weather condition, lightings and others to give you the best possible advice. We can then guide you on the choice of colors, linens and other materials to use based on these conditions. We put everything together to make sure your are happy.</p>
-          <p>You don't need to break the bank to have a wonderful party experinces. All our products and services were designed with our users in mind, so we have got your back.</p>
+          <p>Jubilee Rentals and Decor pride herself as your partner of choice to help you achieve that event or party of your dreams, be it marriage ceremonies, graduation, dinner parties, family reunion, bithday parties or even corporate events. We don't just provide you with quality rental services, we make sure you have a beautiful and holistic experience working with us.</p>
+          <p>We put all factors into consideration from the type and location of the venue, weather condition, lightings and others, so We can then guide you on the choice of colors, linens and other materials to use based on these conditions.</p>
+          <p>You don't need to break the bank to have a wonderful party experience. All our products and services were designed with our users in mind, so we have got your back.</p>
           <router-link to="/" class="service-btn">Learn More</router-link>
         </div>
         <div class="col-md-6 service-img">
           <img src="../assets/celebrate2.jpg" class="img-fluid" alt=""><br /><br />
-           <p>We are 100% customer centric. Your satisfaction is what matters to us. We therefore work very hard to make sure your guest have the best of experience while they celebrate with you thus every body is happy. Give us a try today!</p>
+           <p>Jubilee Rentals and Decor is 100% customer centric. Your satisfaction is what matters to us. We therefore work very hard to make sure your guest have the best of experience while they celebrate with you thus every body is happy. Give us a try today!</p>
         </div>
       </div>
     </div>

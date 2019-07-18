@@ -31,6 +31,10 @@
             padding: .6rem 2rem;
             border: none;
             font-size: .9rem;
+            &:hover{
+                background: $primary-color;
+                transition: all ease-in-out .5s;
+            }
         }
     }
 }

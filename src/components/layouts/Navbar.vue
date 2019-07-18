@@ -29,7 +29,7 @@
       <div class="container-fluid">
           <div class="container">
              <nav class="navbar navbar-expand-lg">
-                 <router-link to="/" class="navbar-brand"><i class="fas fa-glass-cheers brand-img"></i></router-link>
+                 <router-link to="/" class="navbar-brand"><img src="../../assets/jubilee-logo.jpg" class="brand-logo" alt=""></router-link>
                  <button class="navbar-toggler" data-toggle="collapse" data-target="#navbarResponsive">
                      <i class="fa fa-bars navbar-toggler"></i>
                  </button>
@@ -39,7 +39,7 @@
                              <router-link to="/" class="nav-link">Home</router-link>
                          </li>
                           <li class="nav-item">
-                             <router-link to="/" class="nav-link">About Us</router-link>
+                             <router-link to="/about" class="nav-link">About Us</router-link>
                          </li>
                           <li class="nav-item">
                              <router-link to="/" class="nav-link">Services</router-link>
@@ -48,7 +48,7 @@
                              <router-link to="/" class="nav-link">Gallery</router-link>
                          </li>
                           <li class="nav-item">
-                             <router-link to="/" class="nav-link contact-link">Contact Us</router-link>
+                             <router-link to="/contact" class="nav-link contact-link">Contact Us</router-link>
                          </li>
                      </ul>
                  </div>

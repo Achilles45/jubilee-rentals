@@ -1,5 +1,6 @@
 .why__us{
-    background: linear-gradient(rgba(0,0,0,.6),rgba(0,0,0,.6)), url("./assets/work-bg.png");
+    // background: linear-gradient(rgba(0,0,0,.6),rgba(0,0,0,.6)), url("./assets/work-bg.png");
+    background: $primary-color;
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -20,7 +21,8 @@
             border-radius: 3px;
             .why__us--icons{
                 font-size: 2rem;
-                color: #242424;
+                // color: #242424;
+                color: $primary-color;
                 padding-bottom: 1rem;
             }
             h4{

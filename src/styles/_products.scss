@@ -41,10 +41,9 @@
     padding-bottom: .8rem;
     width: 190px;
 }
-.pans{
-    padding-top:3rem;
-    padding-bottom: 1rem;
-    width: 200px;
+.spoons{
+    padding-bottom: .5rem;
+    width: 180px;
 }
 .pots{
     padding-top: 2rem;
@@ -62,13 +61,23 @@
 }
 .donut{
     width: 210px;
+    padding-bottom: 1.8rem;
 }
-.ice-cream{
-    width: 190px;
+.burner{
+    width: 210px;
     padding-bottom: 1rem;
+    padding-top: 1.8rem;
 }
 .chair1{
     width: 180px
+}
+.chair6, .chair7{
+    width: 150px;
+    padding-bottom:.3rem;
+}
+.table1{
+    width: 165px;
+    padding-bottom: 1rem;
 }
 .loading{
     width: 100px;
@@ -77,11 +86,18 @@
 .control{
     width: 220px;
 }
-.tent2, .tent3{
-    width: 195px;
+.tent3{
+    width: 185px;
     padding-bottom: 1.4rem
 }
-
+.fan{
+    width: 165px;
+    padding-bottom: .8rem
+}
+.tent5{
+    width: 158px;
+    padding-bottom: 1rem
+}
 //Media Queries
 @media only screen and (min-width: 468px){
     ul li{
