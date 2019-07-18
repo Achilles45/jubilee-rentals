@@ -19,9 +19,8 @@
                                 <p>+234 810 319 9173</p>
                                 <p>+234 905 783 0925</p><br />
                                 <h6><i class="fa fa-check-square"></i> &nbsp; Get Social</h6>
-                                <a href=""><i class="fab fa-facebook footer-links"></i></a>
-                                <a href=""><i class="fab fa-instagram footer-links"></i></a>
-                                <a href=""><i class="fab fa-twitter footer-links"></i></a>
+                                 <a href="https://www.facebook.com/jubileerentalsoz"><i class="fab fa-facebook footer-links"></i></a>
+                   <a href="https://www.instagram.com/jubilee_rentals_oz"><i class="fab fa-instagram footer-links"></i></a>
                             </div>
                             <div class="col-md-6">
                                <h6>You can may also want to send us a message here</h6><br />

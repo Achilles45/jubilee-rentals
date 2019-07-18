@@ -6,9 +6,8 @@
                     <h5>Company</h5>
                     <p>Jubilee Rentals and Decorations is a creative rental and event planning company based in Delta State that provides you with everything you need to make your event colorful and so much more ...</p>
                     <h6>Get Social</h6>
-                   <a href=""><i class="fab fa-facebook footer-links"></i></a>
-                   <a href=""><i class="fab fa-instagram footer-links"></i></a>
-                   <a href=""><i class="fab fa-twitter footer-links"></i></a>
+                   <a href="https://www.facebook.com/jubileerentalsoz"><i class="fab fa-facebook footer-links"></i></a>
+                   <a href="https://www.instagram.com/jubilee_rentals_oz"><i class="fab fa-instagram footer-links"></i></a>
                 </div>
                 <div class="col-md-5">
                     <h5>Contact Details</h5>
