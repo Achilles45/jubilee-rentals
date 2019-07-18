@@ -17,7 +17,8 @@
                        </div>
                    </div>
                     <div class="col-md-2">
-                      <p> <a href="" class="top__nav--icons"><i class="fab fa-instagram"></i></a></p>
+                      <!-- <p> <a href="https://www.facebook.com/jubileerentalsoz" class="top__nav--icons"><i class="fab fa-facebook-f"></i></a></p>
+                      <p> <a href="https://www.instagram.com/jubilee_rentals_oz" class="top__nav--icons"><i class="fab fa-instagram"></i></a></p> -->
                    </div>
                </div>
            </div>
@@ -45,7 +46,7 @@
                              <router-link to="/" class="nav-link">Services</router-link>
                          </li>
                           <li class="nav-item">
-                             <router-link to="/" class="nav-link">Gallery</router-link>
+                             <router-link to="/gallery" class="nav-link">Gallery</router-link>
                          </li>
                           <li class="nav-item">
                              <router-link to="/contact" class="nav-link contact-link">Contact Us</router-link>
