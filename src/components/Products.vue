@@ -153,7 +153,7 @@ export default {
       document.querySelector('#serving').style.display = "block";
        document.querySelector('#settings').style.display = "none";
        document.querySelector('#tents').style.display = "none";
-       document.querySelector('.first-link').style.color = "#521c3a";
+       document.querySelector('.first-link').style.color = "rgb(235, 200, 75)";
       document.querySelector('.first-link').style.fontWeight = "bold";
       document.querySelector('.second-link').style.color = "";
       document.querySelector('.second-link').style.fontWeight = "";
@@ -164,7 +164,7 @@ export default {
     chairs: function(){
            document.querySelector('#serving').style.display = "none";
            document.querySelector('#settings').style.display = "block";
-            document.querySelector('.second-link').style.color = "#521c3a";
+            document.querySelector('.second-link').style.color = "rgb(235, 200, 75)";
             document.querySelector('.second-link').style.fontWeight = "bold";
             document.querySelector('.first-link').style.color = "";
             document.querySelector('.first-link').style.fontWeight = "";
@@ -187,7 +187,7 @@ export default {
        document.querySelector('.second-link').style.fontWeight = "";
         document.querySelector('.second-link').style.color = "";
          document.querySelector('.third-link').style.fontWeight = "bold";
-        document.querySelector('.third-link').style.color = "#521c3a";
+        document.querySelector('.third-link').style.color = "rgb(235, 200, 75)";
     },
     //Function to show canopies and others
     canopies: function(){

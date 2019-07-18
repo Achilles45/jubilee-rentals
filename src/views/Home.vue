@@ -50,7 +50,7 @@
         <div class="why__us--cards">
           <i class="fa fa-comments why__us--icons"></i>
           <h4>24/7 Support</h4>
-          <p>Our customer support team are nice and very handle at the very moment you need them to help make your events the talk of the town. That's our pride</p>
+          <p>Our customer support service is top notch. We are always handy to give you any required assistance</p>
         </div>
         <div class="why__us--cards">
           <i class="fa fa-cubes why__us--icons"></i>
