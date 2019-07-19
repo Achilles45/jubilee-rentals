@@ -4,7 +4,7 @@
        <div class="row text-center">
          <div class="col-12">
            <h1>Your one-stop shop for all your Event/Party Planning and Rental Services</h1>
-           <p>Jubilee Rentals and Decor is your partner of choice in any thing relating to event/party planning and event rental services. We are the company to talk to if you ever plan to have that party of your dreams and give your guest the best of experience. We creates products and services that are highly customized to the needs of our clients. You are provided with quality and professional advice on choice of colors, linens, lightnings and many others based on the type you have chosen. Our rental products ranging from all kinds of tents, tables, chairs, cooking equipments to decoration essentials are also world class</p>
+           <p>Jubilee Rentals and Decor is your partner of choice in any thing relating to event/party planning and event rental services. We are the company to talk to if you ever plan to have that party of your dreams and give your guest the best of experience. We creates products and services that are highly customized to the needs of our clients. You are provided with quality and professional advice on choice of colors, linens, lightnings and others. Our rental products ranging from all kinds of tents, tables, chairs, cooking equipments to decoration essentials are also world class.</p>
          </div>
        </div>
        <div class="row mt-5 mb-5">
@@ -56,7 +56,7 @@
              <div class="categories-contents">
                <i class="fas fa-fire categories-icons"></i>
                <h6>Cooking</h6>
-               <p>From industrial burners, cooking pots to chafing dish and others, we provide you with all the items needed to make your cooking fast and efficient. What is a party without sweet jollof rice!</p>
+               <p>From industrial burners, cooking pots to chafing dish and others, we provide you with all the items needed to make your cooking fast and efficient.</p>
              </div>
            </div>
          </div>
