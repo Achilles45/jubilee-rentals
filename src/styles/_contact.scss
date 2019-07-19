@@ -20,19 +20,29 @@
             font-size: .9rem;
         }
         }
-    a{
-        margin-right: 20px;
-        font-size: 2rem;
-    }
+    // a{
+    //     margin-right: 20px;
+    //     font-size: 2rem;
+    // }
     .fa-facebook{
         color: #3B589C;
+        font-size: 1.8rem !important;
+        padding-top: 1rem;
+        padding-right: 1.5rem;
     }
     .fa-instagram{
         color: #E83461;
+        font-size: 1.8rem !important;
+        padding-top: 1rem;
     }
     p{
         font-size: .88rem;
     }
+    
+.phone-contact{
+    color: #242424;;
+    padding-bottom: .1rem !important;
+}
     .contact__form{
         label{
             font-size: .9rem;

@@ -12,12 +12,12 @@
                 <div class="col-md-5">
                     <h5>Contact Details</h5>
                     <h6><i class="fa fa-home"></i> &nbsp; Office Address</h6>
-                    <p>50B Along Ughelli Road, Ozoro, Isoko North LGA, Delta State, Nigeria.</p>
+                    <p>50B Ughelli Road, Ozoro, Isoko North LGA, Delta State, Nigeria.</p>
                     <h6><i class="fa fa-envelope"></i> &nbsp; Email Support</h6>
                     <p>jubileerentalsoz@gmail.com.</p>
                     <h6><i class="fa fa-phone"></i> &nbsp; Help Line</h6>
-                    <p>+234 810 319 9173</p>
-                    <p>+234 905 783 0925</p>
+                   <a href="tel:08103199173"><p class="phone-contact">+234 8103 199 173</p></a>
+                    <a href="tel:09057830925" class="phone-contact"><p>+234 9057 830 925</p></a>
                 </div>
                 <div class="col-md-3">
                     <h5>Online Booking / Payment</h5>

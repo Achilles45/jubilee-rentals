@@ -16,8 +16,8 @@
                                 <h6><i class="fa fa-envelope"></i> &nbsp; Email Support</h6>
                                 <p>jubileerentalsoz@gmail.com.</p><br />
                                 <h6><i class="fa fa-phone"></i> &nbsp; Help Line</h6>
-                                <p>+234 810 319 9173</p>
-                                <p>+234 905 783 0925</p><br />
+                                 <a href="tel:08103199173" class="phone-contact"><p>+234 8103 199 173</p></a>
+                                <a href="tel:09057830925" class="phone-contact"><p>+234 9057 830 925</p></a>
                                 <h6><i class="fa fa-check-square"></i> &nbsp; Get Social</h6>
                                  <a href="https://www.facebook.com/jubileerentalsoz"><i class="fab fa-facebook footer-links"></i></a>
                    <a href="https://www.instagram.com/jubilee_rentals_oz"><i class="fab fa-instagram footer-links"></i></a>

@@ -30,7 +30,7 @@
       <div class="row text-center">
         <div class="col-12">
           <h2>We know some moments happens once in life. Let's help you achieve that event or party of your dreams</h2>
-          <p>When we say that we are your partner of choice in making you have the event or parties of your dreams, we actually mean it. Beyound just helping you to plan your weddings, dinner parties, graduation, family reunion, birthday parties, special ceremonies, or corporate events, we provide you with a broad range of rental services from classy tables, chairs, party tents, dinnerwares, decoration essentials, mist fan, Uhaul van, to catering equipments and any other material needed to make your event a success all on budget. We strive to always provide you with the highest level of customer support. We are your one-stop shop for all your events. Try us today!</p>
+          <p>When we say that we are your partner of choice in making you have the event or parties of your dreams, we actually mean it. Beyond just helping you to plan your weddings, dinner parties, graduation, family reunion, birthday parties, special ceremonies, or corporate events, we provide you with a broad range of rental services from classy tables, chairs, party tents, dinnerwares, decoration essentials, mist fan, Uhaul van, to catering equipments and any other material needed to make your event a success all on budget. We strive to always provide you with the highest level of customer support. We are your one-stop shop for all your events. Try us today!</p>
         </div>
       </div>
     </div>
@@ -50,17 +50,17 @@
         <div class="why__us--cards">
           <i class="fa fa-comments why__us--icons"></i>
           <h4>24/7 Support</h4>
-          <p>Our customer support service is top notch. We are always handy to give you any required assistance</p>
+          <p>Our customer support service is top notch. We are always handy to give you any required assistance.</p>
         </div>
         <div class="why__us--cards">
           <i class="fa fa-cubes why__us--icons"></i>
           <h4>Quality & Class</h4>
-          <p>We want to give your guest the kind of comfort they can't get anywhere. All our services and rental products are of great class and quality</p>
+          <p>We want to give your guest the comfort they can't get elsewhere. All our services and rental products are of great class and quality.</p>
         </div>
         <div class="why__us--cards">
           <i class="fa fa-truck why__us--icons"></i>
-          <h4>Quick Logistics</h4>
-          <p>Don't worry about logistics while you party. Our team has got a very good and affordable plan for all your logistics when you use any of our services</p>
+          <h4>Let us Deliver</h4>
+          <p>Our prompt and courteous fleet will deliver your rental order right to your event location so you can focus on what really matters, your event!</p>
         </div>
       </div>
     </div>

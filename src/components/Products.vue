@@ -4,7 +4,7 @@
       <div class="row text-center">
         <div class="col-12">
           <h2>Our Rental Products</h2>
-          <p>Trust us. We have got more than what you need to make your events successfull</p>
+          <p>Trust us. We've got more than what you need to make your events successfull</p>
         </div>
       </div>
       <div class="row text-center">
