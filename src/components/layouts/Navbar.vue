@@ -2,11 +2,8 @@
     <div class="main__wrapper">
        <div class="top__nav container-fluid d-none d-lg-block">
            <div class="container">
-               <div class="row text-center bg-dark">
-                   <div class="col-12">
-                       <img src="../../assets/jubilee-logo.jpg" class="form-control" alt="">
-                   </div>
-                   <!-- <div class="col-md-10">
+               <div class="row">
+                   <div class="col-md-10">
                        <div class="row">
                            <div class="col-md-5">
                               <p> <i class="fa fa-map-marker"></i>&nbsp; 50B Ughelli Road, Ozoro, Delta State, Nigeria</p>
@@ -18,7 +15,7 @@
                                  <a href="tel:08103199173"><p class="phone-contact">+234 8103 199 173</p></a>
                            </div>
                        </div>
-                   </div> -->
+                   </div>
                     <div class="col-md-2">
                       <!-- <p> <a href="https://www.facebook.com/jubileerentalsoz" class="top__nav--icons"><i class="fab fa-facebook-f"></i></a></p>
                       <p> <a href="https://www.instagram.com/jubilee_rentals_oz" class="top__nav--icons"><i class="fab fa-instagram"></i></a></p> -->
