@@ -1,10 +1,10 @@
 <template>
-  <div class="about container-fluid">
+  <div class="about">
      <div class="container">
        <div class="row text-center">
          <div class="col-12">
            <h1>Your one-stop shop for all your Event/Party Planning and Rental Services</h1>
-           <p>Jubilee Rentals and Decor is your partner of choice in any thing relating to event/party planning and event rental services. We are the company to talk to if you ever plan to have that party of your dreams and give your guest the best of experience. We creates products and services that are highly customized to the needs of our clients. You are provided with quality and professional advice on choice of colors, linens, lightnings and many others based on the type you have chosen. Our rental products ranging from all kinds of tents, tables, chairs, cooking equipments to decoration essentaisl are also world class</p>
+           <p>Jubilee Rentals and Decor is your partner of choice in any thing relating to event/party planning and event rental services. We are the company to talk to if you ever plan to have that party of your dreams and give your guest the best of experience. We creates products and services that are highly customized to the needs of our clients. You are provided with quality and professional advice on choice of colors, linens, lightnings and many others based on the type you have chosen. Our rental products ranging from all kinds of tents, tables, chairs, cooking equipments to decoration essentials are also world class</p>
          </div>
        </div>
        <div class="row mt-5 mb-5">
@@ -22,7 +22,7 @@
          <div class="col-12">
            <h3>Events And Party Rental Categories</h3>
            <p>We have all the items you need to make your events faboulous. You don't have to look elsewhere for anything!</p>
-           <div class="categories-wrapper">
+           <div class="categories-wrapper mb-5">
              <div class="categories-contents">
                <i class="fas fa-chair categories-icons"></i>
                <h6>SEATING</h6>
@@ -46,7 +46,7 @@
              <div class="categories-contents">
                <i class="fas fa-eye categories-icons"></i>
                <h6>Decor</h6>
-               <p>The company provides you with any material needed to achieve both simple and complex design concepts straigh out of the box</p>
+               <p>The company provides you with any material needed to achieve both simple and complex design concepts straight out of the box</p>
              </div>
               <div class="categories-contents">
                <i class="fas fa-toggle-on categories-icons"></i>
@@ -56,23 +56,26 @@
              <div class="categories-contents">
                <i class="fas fa-fire categories-icons"></i>
                <h6>Cooking</h6>
-               <p>from industrial burners, cooking pots to chafing dish and others, we provide you with all the items needed to make your cooking fast an efficient. With is a party without sweet jllof rice!</p>
+               <p>From industrial burners, cooking pots to chafing dish and others, we provide you with all the items needed to make your cooking fast and efficient. What is a party without sweet jollof rice!</p>
              </div>
            </div>
          </div>
        </div>
      </div>
-  <!-- <Footer /> -->
+     <div class="foot">
+     <Footer />
+     </div>
   </div>
 </template>
 <script>
 import Footer from "@/components/layouts/Footer.vue";
 export default {
+  name:'About',
   components:{
     Footer
   }
 }
 </script>
-<style>
-
+<style lang="scss" scoped>
+@import '../styles/_footer.scss';
 </style>

@@ -14,12 +14,17 @@ footer{
     h6{
         opacity: .9;
         font-size: .9rem;
-        padding-bottom: .5rem;
+        // padding-bottom: .5rem;
     }
     .footer-links{
         padding-right: 1rem;
         font-size: 1.5rem;
-        color:#fff;
+    }
+    .fa-facebook{
+        color: #3B589C;
+    }
+    .fa-instagram{
+        color: #E83461;
     }
     p{
         font-size: 0.8375rem;

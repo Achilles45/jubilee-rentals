@@ -31,7 +31,7 @@
           <div class="container">
              <nav class="navbar navbar-expand-lg">
                  <router-link to="/" class="navbar-brand"><img src="../../assets/jubilee-logo.jpg" class="brand-logo" alt=""></router-link>
-                 <button class="navbar-toggler" data-toggle="collapse" data-target="#navbarResponsive">
+                 <button class="navbar-toggler" data-toggle="collapse" data-target="#navbarResponsive" aria-labelledby="true">
                      <i class="fa fa-bars navbar-toggler"></i>
                  </button>
                  <div class="collapse navbar-collapse" id="navbarResponsive">
@@ -43,7 +43,7 @@
                              <router-link to="/about" class="nav-link">About Us</router-link>
                          </li>
                           <li class="nav-item">
-                             <router-link to="/" class="nav-link">Services</router-link>
+                             <router-link to="/services" class="nav-link">Services</router-link>
                          </li>
                           <li class="nav-item">
                              <router-link to="/gallery" class="nav-link">Gallery</router-link>

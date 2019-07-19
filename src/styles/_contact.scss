@@ -60,11 +60,12 @@
         .contact-btn{
             background: $primary-color;
             padding: .7rem 2rem;
-            color:#fff;
+            color:#000;
             border: none;
             text-align:center;
             font-size: .9rem;
             outline: none;
+            font-weight: bold;
             &:hover{
                 background: $primary-color;
                 transition: all ease-in-out .5s;
