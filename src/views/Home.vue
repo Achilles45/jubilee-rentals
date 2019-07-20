@@ -137,6 +137,11 @@
   </section>
   <!--End of Newsletter section
   ==============================-->
+    <div class="whatsapp-section">
+        <a href="https://api.whatsapp.com/send?phone=2348103199173">
+	      <img alt="whatsapp" src="../assets/whatsapp.png" class="whatsapp"></a>
+    </div>
+  
   <!--Footer section begins here
   =========================-->
   <Footer />
@@ -161,7 +166,16 @@ export default {
   }
 }
 </script>
-<style>
+<style lang="scss" scoped>
+.whatsapp-section{
+  position: fixed;
+  z-index: 1000;
+  bottom: 10px;
+  right: 10px;
+}
+.whatsapp{
+        height: 70px;
+    }
 .slide-img{
   height: auto;
   max-height: 535px;
