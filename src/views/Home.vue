@@ -138,7 +138,7 @@
   <!--End of Newsletter section
   ==============================-->
     <div class="whatsapp-section">
-        <a href="https://api.whatsapp.com/send?phone=2348103199173">
+        <a href="https://api.whatsapp.com/send?phone=233553759769">
 	      <img alt="whatsapp" src="../assets/whatsapp.png" class="whatsapp"></a>
     </div>
   
@@ -174,7 +174,7 @@ export default {
   right: 10px;
 }
 .whatsapp{
-        height: 70px;
+        height: 60px;
     }
 .slide-img{
   height: auto;
