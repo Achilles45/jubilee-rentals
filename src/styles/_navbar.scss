@@ -39,25 +39,20 @@ nav{
 //MEDIA QUERIES
 @media only screen and (max-width: 990px) {
     .main__wrapper{
-        background: $primary-color;
-        .brand-img{
-            color:#fff;
-            font-size: 1rem;
-        }
         .navbar-toggler{
-            color:#fff;
+            color:#333;
             opacity: .9;
         }
-       .nav-link{
-           color: #fff;
-           font-weight: normal;
-       }
-       .contact-link{
-        border: 1px solid #fff;
-        background: transparent;
-        padding: .6rem 1.4rem !important;
-        border-radius: 2px;
-        color:#fff
-    }
+    //    .nav-link{
+    //        color: #fff;
+    //        font-weight: normal;
+    //    }
+    //    .contact-link{
+    //     border: 1px solid #fff;
+    //     background: transparent;
+    //     padding: .6rem 1.4rem !important;
+    //     border-radius: 2px;
+    //     color:#fff
+    // }
     }
   } 
