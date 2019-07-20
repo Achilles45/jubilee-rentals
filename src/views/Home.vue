@@ -79,14 +79,14 @@
       <div class="row">
         <div class="col-md-6">
           <h1 class="text-center">We create CUSTOMIZED and UNIQUE Event and Party Experience</h1>
-          <p>Jubilee Rentals and Decor pride herself as your partner of choice to help you achieve that event or party of your dreams, be it marriage ceremonies, graduation, dinner parties, family reunion, bithday parties or even corporate events. We don't just provide you with quality rental services, we make sure you have a beautiful and holistic experience working with us.</p>
-          <p>We put all factors into consideration from the type and location of the venue, weather condition, lightings and others, so We can then guide you on the choice of colors, linens and other materials to use based on these conditions.</p>
+          <p>Jubilee Rentals and Decor prides herself as your partner of choice to help you achieve that event or party of your dreams, be it marriage ceremonies, graduation, dinner parties, family reunion, bithday parties or even corporate events. We don't just provide you with quality rental services, we make sure you have a beautiful and holistic experience working with us.</p>
+          <p>We put all factors into consideration from the type and location of the venue, weather condition, lightings and others, so we can then guide you on the choice of colors, linens and other materials to use based on these conditions.</p>
           <p>You don't need to break the bank to have a wonderful party experience. All our products and services were designed with our users in mind, so we have got your back.</p>
           <router-link to="/about" class="service-btn">Learn More</router-link>
         </div>
         <div class="col-md-6 service-img">
           <img src="../assets/celebrate2.jpg" class="img-fluid" alt=""><br /><br />
-           <p>Jubilee Rentals and Decor is 100% customer centric. Your satisfaction is what matters to us. We therefore work very hard to make sure your guest have the best of experience while they celebrate with you thus every body is happy. Give us a try today!</p>
+           <p>Jubilee Rentals and Decor is 100% customer centric. Your satisfaction is what matters to us. We therefore work very hard to make sure your guest have the best of experience while they celebrate with you. Give us a try today!</p>
         </div>
       </div>
     </div>
@@ -103,7 +103,7 @@
         </div>
         <div class="col-md-6 mt-3">
           <h1 class="text-center">Our Event Planning and Decoration Services</h1>
-          <p class="text-center">With the help of our professional event planners, you are sure of getting the best. From ideation stage through planning and execution, we work with you to make sure your event becomes the talk of the city</p>
+          <p class="text-center">With the help of our professional event planners, you are sure of getting the best. From ideation stage through planning and execution, we work with you to make sure your event becomes the talk of the town.</p>
           <p class="text-center">We are on the constant look out to make sure our concepts are relevant and up-to-date so we can give you the best. You deserves an unforgettable experience. Reach to us today!</p>
            <router-link to="/contact" class="plan-btn">Begin Planning</router-link>
         </div>
