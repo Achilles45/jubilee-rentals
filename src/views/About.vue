@@ -4,7 +4,7 @@
        <div class="row text-center">
          <div class="col-12">
            <h1>Your one-stop shop for all your Event/Party Planning and Rental Services</h1>
-           <p>Jubilee Rentals and Decor is your partner of choice in event/party planning and event rental services. We are the company to talk to if you ever plan to have that party of your dreams and give your guest the best of experience. We creates products and services that are highly customized to the needs of our clients. You are provided with quality and professional advice on choice of colors, linens, lightnings and others. Our rental products ranging from all kinds of tents, tables, chairs,Uhaul vans, cooking equipments to decoration essentials are also world class.</p>
+           <p>Jubilee Rentals and Decor is the company to talk to if you ever plan to have that party of your dreams and give your guest the best possible experience. We creates products and services that are highly customized to the needs of our clients. You are provided with quality and professional advice on choice of colors, linens, lightnings and others. Our rental products ranging from all kinds of tents, tables, chairs,Uhaul vans, cooking equipments to decoration essentials are also world class.</p>
          </div>
        </div>
        <div class="row mt-5 mb-5">
@@ -31,7 +31,7 @@
              <div class="categories-contents categories-icons">
               <i class="fas fa-dice-d6"></i>
                <h6>Tables</h6>
-                <p>You have got access to good number of inventory here. We have tables of various types and sizes to suit your needs.</p>
+                <p>You have access to a broad inventory here. We have tables of various types and sizes to suit your needs.</p>
              </div>
              <div class="categories-contents">
                <i class="fas fa-clone categories-icons"></i>
@@ -41,7 +41,7 @@
              <div class="categories-contents">
               <i class="fas fa-cubes categories-icons"></i>
                <h6>Table Wares</h6>
-               <p>We have got simple but beautiful dinnerwares for you. Our materials enable you give your guest  beautiful presentaion.</p>
+               <p>We have simple but beautiful dinnerwares for you. Our materials enable you give your guest  beautiful presentaion.</p>
              </div>
              <div class="categories-contents">
                <i class="fas fa-eye categories-icons"></i>

@@ -32,7 +32,7 @@
         </div>
         <div class="col-md-3 product-cards">
           <img src="../assets/spoons.jpg" class="img-fluid spoons" alt="">
-          <h6>Sets of stainless steel curtleries</h6>
+          <h6>Set of stainless steel cutleries</h6>
         </div>
         <div class="col-md-3 product-cards">
           <img src="../assets/dish7.jpg" class="img-fluid pots" alt="">

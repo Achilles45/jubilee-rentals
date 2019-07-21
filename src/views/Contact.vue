@@ -10,9 +10,9 @@
                         </div><br /><br /><br />
                         <div class="row">
                             <div class="col-md-6">
-                                <h6>Our customer care is more than ready to respond to all your queries in real time</h6><br />
+                                <h6>The customer support is more than ready to respond to all your queries in real time</h6><br />
                                 <h6><i class="fa fa-home"></i> &nbsp; Office Address</h6>
-                                <p>50B Along Ughelli Road, Ozoro, Isoko North LGA, Delta State, Nigeria.</p><br />
+                                <p>50B Ughelli Road, Ozoro, Isoko North LGA, Delta State, Nigeria.</p><br />
                                 <h6><i class="fa fa-envelope"></i> &nbsp; Email Support</h6>
                                 <p>jubileerentalsoz@gmail.com.</p><br />
                                 <h6><i class="fa fa-phone"></i> &nbsp; Help Line</h6>
