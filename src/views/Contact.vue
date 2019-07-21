@@ -30,7 +30,7 @@
                                <div v-if="success" class="alert alert-success" role="alert">
                                    {{ success }}
                                </div>
-                               <form @submit.prevent="sendMessage()" class="contact__form" autocomplete="off" data-netlify="true" name="jubilee-rentals">
+                               <form @submit.prevent="sendMessage()" class="contact__form" autocomplete="off" data-netlify="true" name="jubilee-rentals" method="POST">
                                    <div class="row">
                                        <div class="col-md-6">
                                            <div class="form-group">
